@@ -1,0 +1,15 @@
+#page{
+    text-align: right;
+}
+body{
+    margin:5px;
+    padding: 10px;
+    
+}
+
+p{
+    text-align: justify;
+}
+#heading{
+    text-align: center;
+}
